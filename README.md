@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanket Chaware</h1>
-<h3 align="center">An Enthusiatic Full Stack Developer.</h3>
+<h3 align="center">Being a child its so common to get attracted towards the computer. But I was so fascinated with the computer and technology.That fascination pulled me to deep dive in it and pursue my career into tech. Despite of having a degree of B.E(Electronics and Telecommunication) my focus was to get into development side by getting an employment in IT industry. So got engaged with Masai School for the Full Stack Web Developement Course to be a proficient Full Stack Developer.</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
