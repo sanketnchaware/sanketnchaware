@@ -26,7 +26,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketnchaware&" alt="sanketnchaware" /></p>
 
 
-![express](https://user-images.githubusercontent.com/68117560/143772968-02676a28-a996-445f-9a7b-476a537e822d.png)
+
 
 
 
