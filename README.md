@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sanket Chaware</h1>
 <h3 align="center">Being a child its so common to get attracted towards the computer. But I was so fascinated with the computer and technology.That fascination pulled me to deep dive in it and pursue my career into tech. Despite of having a degree of B.E(Electronics and Telecommunication) my focus was to get into development side by getting an employment in IT industry. So got engaged with Masai School for the Full Stack Web Developement Course to be a proficient Full Stack Developer.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketnchaware&show_icons=true&locale=en&layout=compact" alt="sanketnchaware" /></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketnchaware&label=Profile%20views&color=0e75b6&style=flat" alt="sanketnchaware" /> </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketnchaware&show_icons=true&locale=en&layout=compact" alt="sanketnchaware" /></p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
