@@ -26,13 +26,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketnchaware&" alt="sanketnchaware" /></p>
 
 
- <div class="back">
-   sanket
-   </div>
 
-<styles>
- .back{
- background-color:white;
- }
 
-</styles>
