@@ -29,6 +29,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketnchaware&show_icons=true&locale=en&layout=compact" alt="sanketnchaware" /></p>
 
-<span class="iconify" data-icon="logos:express"></span>
-
+<span class="iconify" data-icon="vscode-icons:file-type-node2"></span>
 
