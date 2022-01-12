@@ -8,9 +8,9 @@
 
 - 📫 Reach me at **sanketnchaware@gmail.com**  
 
-- 👨‍💻 All of my projects are available [here](https://portfolio-sanketnchaware.vercel.app/)
+- 👨‍💻 Checkout my Portfolio [here](https://portfolio-sanketnchaware.vercel.app/)
 
-- 📄 Know about my  [experiences](https://drive.google.com/file/d/1t5ou8w4U2mOYImW-j2gDg7Z6Ok-1yuqZ/view?usp=sharing)
+- 📄 Here is my [Resume](https://drive.google.com/drive/folders/1bDBVfCfoIbI2gzIyDTas3LaQf8kazYvd?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
