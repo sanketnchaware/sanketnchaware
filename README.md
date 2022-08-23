@@ -1,5 +1,9 @@
- ![Screenshot (497)_edited](https://user-images.githubusercontent.com/68117560/143767236-e94e3a9d-a72e-4159-b230-a8c61de3f629.jpg)
+<!--  ![Screenshot (497)_edited](https://user-images.githubusercontent.com/68117560/143767236-e94e3a9d-a72e-4159-b230-a8c61de3f629.jpg) -->
+
+![photo_2022-08-23_21-11-59](https://user-images.githubusercontent.com/68117560/186202274-870227a1-3bd9-438f-b234-d2d53cd44dd3.jpg)
+
 <h3 align="center">Being a child its so common to get attracted towards the computer. But I was so fascinated with the computer and technology.That fascination pulled me to deep dive in it and pursue my career into tech. Despite of having a degree of B.E(Electronics and Telecommunication) my focus was to get into development side by getting an employment in IT industry. So got engaged with Masai School for the Full Stack Web Developement Course to be a proficient Full Stack Developer.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketnchaware&label=Profile%20views&color=0e75b6&style=flat" alt="sanketnchaware" /> </p>
 
