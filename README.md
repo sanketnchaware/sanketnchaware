@@ -1,4 +1,4 @@
- ![Screenshot (497)_edited](https://user-images.githubusercontent.com/68117560/143767236-e94e3a9d-a72e-4159-b230-a8c61de3f629.jpg)
+<!--  ![Screenshot (497)_edited](https://user-images.githubusercontent.com/68117560/143767236-e94e3a9d-a72e-4159-b230-a8c61de3f629.jpg) -->
 
 <!-- ![photo_2022-08-23_21-11-59](https://user-images.githubusercontent.com/68117560/186202274-870227a1-3bd9-438f-b234-d2d53cd44dd3.jpg) -->
 
