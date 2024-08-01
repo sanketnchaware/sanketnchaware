@@ -8,11 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketnchaware&label=Profile%20views&color=0e75b6&style=flat" alt="sanketnchaware" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🌱 I’m currently working as  **Frontend Developer**
+- 🌱 I’m currently working as Associate Software Developer at Scube.
 
 - 📫 Reach me at **sanketnchaware@gmail.com**  
 
-- 👨‍💻 Checkout my Portfolio [here](https://sanketnchaware-portfolio.vercel.app/)
+- 👨‍💻 Checkout my Portfolio [here](https://sanketnchaware.netlify.app/)
 
 - 📄 Here is my [Resume](https://drive.google.com/drive/folders/1bDBVfCfoIbI2gzIyDTas3LaQf8kazYvd?usp=sharing)
 
