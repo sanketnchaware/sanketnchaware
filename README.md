@@ -75,13 +75,15 @@ Previously, I worked as an **Associate Software Developer at Scube**, where I co
 ### 📈 GitHub Stats
 
 <p>
+  <img src="https://komarev.com/ghpvc/?username=sanketnchaware&label=Profile%20views&color=0e75b6&style=flat" alt="sanketnchaware" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=sanketnchaware&show_icons=true&theme=tokyonight" alt="Sanket's GitHub stats" />
-</p>
-
-<!-- Optional Contributions Graph -->
-
-<!-- <p>
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketnchaware&theme=tokyonight" alt="GitHub Streak" />
-</p> -->
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketnchaware&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br />
+  <img src="https://activity-graph.herokuapp.com/graph?username=sanketnchaware&theme=tokyonight" alt="GitHub Activity Graph" />
+</p>
 
 Thanks for stopping by! ✨
