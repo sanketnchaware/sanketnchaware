@@ -1,45 +1,87 @@
-<!--  ![Screenshot (497)_edited](https://user-images.githubusercontent.com/68117560/143767236-e94e3a9d-a72e-4159-b230-a8c61de3f629.jpg) -->
+## 👋 Hi there, I'm Sanket Chaware
 
-<!-- ![photo_2022-08-23_21-11-59](https://user-images.githubusercontent.com/68117560/186202274-870227a1-3bd9-438f-b234-d2d53cd44dd3.jpg) -->
+### 🚀 Frontend-Focused Full Stack Developer | 3+ Years of Experience | React.js • Redux Toolkit • Tailwind CSS
 
-<h3 align="center">          👋 Hi, I’m Sanket — a Frontend Developer with 3+ years of
-              experience crafting clean, performant, and user-friendly web
-              interfaces. I specialize in React.js, Redux Toolkit, and Tailwind
-              CSS, and I’m passionate about building scalable products that feel
-              smooth and intuitive. From optimizing performance to collaborating
-              across teams, I bring a problem-solving mindset to every project.
-              Scroll down to see some of the work I’m proud of. 👇</h3>
+---
 
+I'm a Frontend Developer with over 3 years of professional experience building fast, responsive, and intuitive web applications. I began my journey during the COVID era, successfully transitioning into tech through a rigorous 6-month full-stack development program. Since then, I’ve specialized in frontend technologies and worked on scalable applications that focus on performance, design, and user experience.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketnchaware&label=Profile%20views&color=0e75b6&style=flat" alt="sanketnchaware" /> </p>
+Previously, I worked as an **Associate Software Developer at Scube**, where I collaborated across teams to turn ideas into real, working products in dynamic and fast-paced environments. I'm currently based in my hometown and open to new opportunities where I can contribute to meaningful projects and grow with innovative teams.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🌱 I’m currently working as Associate Software Developer at Scube.
+---
 
-- 📫 Reach me at **sanketnchaware@gmail.com**  
+### 💻 Tech Stack & Tools
 
-- 👨‍💻 Checkout my Portfolio [here](https://sanketnchaware.netlify.app/)
-
-- 📄 Here is my [Resume](https://drive.google.com/drive/folders/1bDBVfCfoIbI2gzIyDTas3LaQf8kazYvd?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/sankyaaaaa07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sankyaaaaa07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanketnchaware/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanketnchaware/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sankyaaaaa__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sankyaaaaa__/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjnm0ywjol9-cs9m7jmds9w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjnm0ywjol9-cs9m7jmds9w" height="30" width="40" /></a>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3> 
+---
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+### 🔧 What I Do Best
 
+* Build pixel-perfect, scalable UIs with **React**, **Tailwind CSS**, and **Redux Toolkit**
+* Translate Figma designs into responsive, user-friendly web apps
+* Optimize performance with lazy loading, code splitting & rendering strategies
+* Collaborate with cross-functional teams to deliver high-quality features
+* Occasionally build full-stack MERN apps to stay hands-on with backend
 
+---
 
+### 📊 Career Highlights
 
+* ✅ Shipped 10+ frontend projects using reusable, component-based architecture
+* ⚡ Reduced page load time by up to 60% with advanced performance optimization
+* 🛠️ Migrated legacy UIs to modern stacks (React + Tailwind) for better maintainability
+* 📱 Boosted mobile engagement by 20% through responsive, user-first designs
+* 🧩 Built & maintained scalable admin dashboards using React + TypeScript
 
+---
 
+### 📫 Contact Me
+
+* 📧 Email: **[sanketnchaware@gmail.com](mailto:sanketnchaware@gmail.com)**
+* 🌐 Portfolio: [sanketnchaware.netlify.app](https://sanketnchaware.netlify.app/)
+* 📄 [View Resume](https://drive.google.com/drive/folders/1bDBVfCfoIbI2gzIyDTas3LaQf8kazYvd?usp=sharing)
+
+---
+
+### 🌐 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/sanketnchaware/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/sankyaaaaa__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCjNm0ywjOl9-cs9M7JMDs9w" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanketnchaware&show_icons=true&theme=tokyonight" alt="Sanket's GitHub stats" />
+</p>
+
+<!-- Optional Contributions Graph -->
+
+<!-- <p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketnchaware&theme=tokyonight" alt="GitHub Streak" />
+</p> -->
+
+Thanks for stopping by! ✨
