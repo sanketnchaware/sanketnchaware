@@ -62,7 +62,7 @@ Previously, I worked as an **Associate Software Developer at Scube**, where I co
   <a href="https://www.linkedin.com/in/sanketnchaware/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/sankyaaaaa__/" target="_blank">
+  <a href="https://www.instagram.com/code_unstoppable_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/channel/UCjNm0ywjOl9-cs9M7JMDs9w" target="_blank">
