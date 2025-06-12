@@ -2,7 +2,13 @@
 
 <!-- ![photo_2022-08-23_21-11-59](https://user-images.githubusercontent.com/68117560/186202274-870227a1-3bd9-438f-b234-d2d53cd44dd3.jpg) -->
 
-<h3 align="center">Hello there, I'm Sanket, a Covid-batch graduate with a passion for web development. After my degree in Electronics and Telecommunication I did 6-month full-stack training program and landed a job in a startup based in Bangalore. I've spent the last 3.1 years working as a frontend developer. My expertise lies in crafting dynamic web experiences using HTML, CSS, JavaScript, React, Redux Toolkit,NextJs and Tailwind CSS. Check out my projects to see my skills in action..</h3>
+<h3 align="center">          👋 Hi, I’m Sanket — a Frontend Developer with 3+ years of
+              experience crafting clean, performant, and user-friendly web
+              interfaces. I specialize in React.js, Redux Toolkit, and Tailwind
+              CSS, and I’m passionate about building scalable products that feel
+              smooth and intuitive. From optimizing performance to collaborating
+              across teams, I bring a problem-solving mindset to every project.
+              Scroll down to see some of the work I’m proud of. 👇</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketnchaware&label=Profile%20views&color=0e75b6&style=flat" alt="sanketnchaware" /> </p>
