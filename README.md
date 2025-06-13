@@ -28,9 +28,6 @@ Previously, I worked as an **Associate Software Developer at Scube**, where I co
 
 ---
 
-
----
-
 ### 📊 Career Highlights
 
 * ✅ Shipped 10+ frontend projects using reusable, component-based architecture
