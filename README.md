@@ -51,7 +51,7 @@ Previously, I worked as an **Associate Software Developer at Scube**, where I co
 ### 📫 Contact Me
 
 * 📧 Email: **[sanketnchaware@gmail.com](mailto:sanketnchaware@gmail.com)**
-* 🌐 Portfolio: [sanketnchaware.netlify.app](https://sanketnchaware.netlify.app/)
+* 🌐 Portfolio: [https://sanketnchaware.netlify.app](https://sanketnchaware.netlify.app/)
 * 📄 [View Resume](https://drive.google.com/drive/folders/1bDBVfCfoIbI2gzIyDTas3LaQf8kazYvd?usp=sharing)
 
 ---
