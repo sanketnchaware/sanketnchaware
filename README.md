@@ -28,13 +28,6 @@ Previously, I worked as an **Associate Software Developer at Scube**, where I co
 
 ---
 
-### 🔧 What I Do Best
-
-* Build pixel-perfect, scalable UIs with **React**, **Tailwind CSS**, and **Redux Toolkit**
-* Translate Figma designs into responsive, user-friendly web apps
-* Optimize performance with lazy loading, code splitting & rendering strategies
-* Collaborate with cross-functional teams to deliver high-quality features
-* Occasionally build full-stack MERN apps to stay hands-on with backend
 
 ---
 
