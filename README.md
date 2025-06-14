@@ -72,7 +72,7 @@ Previously served as an **Associate Software Developer at Scube**, collaborating
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketnchaware&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br />
-  <img src="https://activity-graph.herokuapp.com/graph?username=sanketnchaware&theme=tokyonight" alt="GitHub Activity Graph" />
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=sanketnchaware&theme=tokyonight" alt="GitHub Activity Graph" /> -->
 </p>
 
 ---
