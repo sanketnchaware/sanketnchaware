@@ -4,9 +4,9 @@
 
 ---
 
-I'm a Frontend Developer with over 3 years of professional experience building fast, responsive, and intuitive web applications. I began my journey during the COVID era, successfully transitioning into tech through a rigorous 6-month full-stack development program. Since then, I’ve specialized in frontend technologies and worked on scalable applications that focus on performance, design, and user experience.
+A Frontend Developer with over 3 years of professional experience building fast, responsive, and intuitive web applications. Sanket began his journey during the COVID era, successfully transitioning into tech through a rigorous 6-month full-stack development program. Since then, he has specialized in frontend technologies and contributed to scalable applications focused on performance, design, and user experience.
 
-Previously, I worked as an **Associate Software Developer at Scube**, where I collaborated across teams to turn ideas into real, working products in dynamic and fast-paced environments. I'm currently based in my hometown and open to new opportunities where I can contribute to meaningful projects and grow with innovative teams.
+Previously served as an **Associate Software Developer at Scube**, collaborating with cross-functional teams to bring ideas to life in dynamic and fast-paced environments. Currently based in his hometown and open to new opportunities that allow him to contribute to impactful projects and grow alongside innovative teams.
 
 ---
 
@@ -30,15 +30,15 @@ Previously, I worked as an **Associate Software Developer at Scube**, where I co
 
 ### 📊 Career Highlights
 
-* ✅ Shipped 10+ frontend projects using reusable, component-based architecture
+* ✅ Delivered 10+ frontend projects using reusable, component-based architecture
 * ⚡ Reduced page load time by up to 60% with advanced performance optimization
-* 🛠️ Migrated legacy UIs to modern stacks (React + Tailwind) for better maintainability
-* 📱 Boosted mobile engagement by 20% through responsive, user-first designs
-* 🧩 Built & maintained scalable admin dashboards using React + TypeScript
+* 🛠️ Migrated legacy UIs to modern stacks (React + Tailwind) to improve maintainability
+* 📱 Boosted mobile engagement by 20% with responsive, user-centric designs
+* 🧩 Built and maintained scalable admin dashboards using React and TypeScript
 
 ---
 
-### 📫 Contact Me
+### 📫 Contact
 
 * 📧 Email: **[sanketnchaware@gmail.com](mailto:sanketnchaware@gmail.com)**
 * 🌐 Portfolio: [https://sanketnchaware.netlify.app](https://sanketnchaware.netlify.app/)
@@ -46,7 +46,7 @@ Previously, I worked as an **Associate Software Developer at Scube**, where I co
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect With Him
 
 <p>
   <a href="https://www.linkedin.com/in/sanketnchaware/" target="_blank">
@@ -55,9 +55,6 @@ Previously, I worked as an **Associate Software Developer at Scube**, where I co
   <a href="https://www.instagram.com/code_unstoppable_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-<!--   <a href="https://www.youtube.com/channel/UCjNm0ywjOl9-cs9M7JMDs9w" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a> -->
 </p>
 
 ---
