@@ -4,7 +4,7 @@
 
 ---
 
-A Frontend Developer with over 3 years of professional experience building fast, responsive, and intuitive web applications. Primarily focused on frontend technologies, with deep expertise in React.js, Redux Toolkit, and Tailwind CSS. The journey into tech began during the COVID era through a rigorous 6-month full-stack development program, laying a strong foundation across the entire MERN stack.
+A Full Stack Web Developer with over 3 years of professional experience building fast, responsive, and intuitive web applications. Primarily focused on frontend technologies, with deep expertise in React.js, Redux Toolkit, and Tailwind CSS. The journey into tech began during the COVID era through a rigorous 6-month full-stack development program, laying a strong foundation across the entire MERN stack.
 
 While the main focus is on frontend development, there is also hands-on experience with backend technologies like Node.js, Express, and MongoDB—often applied in full-stack personal or collaborative projects to deliver complete, end-to-end solutions.
 
