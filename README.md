@@ -4,9 +4,11 @@
 
 ---
 
-A Frontend Developer with over 3 years of professional experience building fast, responsive, and intuitive web applications. Sanket began his journey during the COVID era, successfully transitioning into tech through a rigorous 6-month full-stack development program. Since then, he has specialized in frontend technologies and contributed to scalable applications focused on performance, design, and user experience.
+A Frontend Developer with over 3 years of professional experience building fast, responsive, and intuitive web applications. Primarily focused on frontend technologies, with deep expertise in React.js, Redux Toolkit, and Tailwind CSS. The journey into tech began during the COVID era through a rigorous 6-month full-stack development program, laying a strong foundation across the entire MERN stack.
 
-Previously served as an **Associate Software Developer at Scube**, collaborating with cross-functional teams to bring ideas to life in dynamic and fast-paced environments. Currently based in his hometown and open to new opportunities that allow him to contribute to impactful projects and grow alongside innovative teams.
+While the main focus is on frontend development, there is also hands-on experience with backend technologies like Node.js, Express, and MongoDB—often applied in full-stack personal or collaborative projects to deliver complete, end-to-end solutions.
+
+Previously served as an **Associate Software Developer at Scube**, collaborating with cross-functional teams to turn ideas into working products in fast-paced environments. Currently open to opportunities that offer the chance to contribute to impactful projects while growing alongside innovative teams.
 
 ---
 
@@ -30,15 +32,15 @@ Previously served as an **Associate Software Developer at Scube**, collaborating
 
 ### 📊 Career Highlights
 
-* ✅ Delivered 10+ frontend projects using reusable, component-based architecture
+* ✅ Shipped 10+ frontend projects using reusable, component-based architecture
 * ⚡ Reduced page load time by up to 60% with advanced performance optimization
-* 🛠️ Migrated legacy UIs to modern stacks (React + Tailwind) to improve maintainability
-* 📱 Boosted mobile engagement by 20% with responsive, user-centric designs
-* 🧩 Built and maintained scalable admin dashboards using React and TypeScript
+* 🛠️ Migrated legacy UIs to modern stacks (React + Tailwind) for better maintainability
+* 📱 Boosted mobile engagement by 20% through responsive, user-first designs
+* 🧩 Built & maintained scalable admin dashboards using React + TypeScript
 
 ---
 
-### 📫 Contact
+### 📫 Contact Me
 
 * 📧 Email: **[sanketnchaware@gmail.com](mailto:sanketnchaware@gmail.com)**
 * 🌐 Portfolio: [https://sanketnchaware.netlify.app](https://sanketnchaware.netlify.app/)
@@ -46,7 +48,7 @@ Previously served as an **Associate Software Developer at Scube**, collaborating
 
 ---
 
-### 🌐 Connect With Him
+### 🌐 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/sanketnchaware/" target="_blank">
@@ -72,5 +74,7 @@ Previously served as an **Associate Software Developer at Scube**, collaborating
   <br />
   <img src="https://activity-graph.herokuapp.com/graph?username=sanketnchaware&theme=tokyonight" alt="GitHub Activity Graph" />
 </p>
+
+---
 
 Thanks for stopping by! ✨
